@@ -11,7 +11,7 @@ You can use them in bug bounty and CTFs
 PoCs will be created for old and for self-found vulnerabilities
 
 ---
-### Xpl0its
+### 👾 Xpl0its
 
 [CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
