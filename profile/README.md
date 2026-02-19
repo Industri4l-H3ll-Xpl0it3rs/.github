@@ -1,12 +1,27 @@
-## Hi there 👋
+![](https://github.com/Infrar3dd/Industri4l_H3ll_Xpl0its/blob/main/IHx.gif)
 
-<!--
+# Industri4l H3ll Xpl0its
 
-**Here are some ideas to get you started:**
+### What's that?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
+
+You can use them in bug bounty and CTFs
+
+PoCs will be created for old and for self-found vulnerabilities
+
+---
+### Xpl0its
+
+[CVE-2014-6271](https://github.com/Infrar3dd/Industri4l_H3ll_Xpl0its/tree/main/Exploits/CVE-2014-6271)
+
+---
+### ⚠️ Disclaimer ⚠️
+
+This software and proof-of-concept code is provided **for educational and research purposes only**. 
+
+*   The authors are **not responsible** for any misuse or damage caused by this program.
+*   **Do not use** against any systems without explicit **prior permission**.
+*   Use of this tools for attacking targets without consent is **illegal**.
+
+You are responsible for obeying all applicable laws. **Use ethically and responsibly.**
