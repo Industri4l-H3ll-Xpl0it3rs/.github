@@ -2,7 +2,7 @@
 
 # Industri4l H3ll Xpl0its
 
-### What's that?
+### ❓ What's that?
 
 That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
 
