@@ -13,7 +13,7 @@ PoCs will be created for old and for self-found vulnerabilities
 ---
 ### Xpl0its
 
-[CVE-2014-6271](https://github.com/Infrar3dd/Industri4l_H3ll_Xpl0its/tree/main/Exploits/CVE-2014-6271)
+[CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
 ---
 ### ⚠️ Disclaimer ⚠️
