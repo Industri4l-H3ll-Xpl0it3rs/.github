@@ -15,6 +15,8 @@ PoCs will be created for old and for self-found vulnerabilities
 
 [CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
+[FTP Log Poisoning](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning)
+
 ---
 ### ⚠️ Disclaimer
 
