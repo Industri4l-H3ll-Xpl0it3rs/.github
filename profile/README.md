@@ -18,7 +18,7 @@ PoCs will be created for old and for self-found vulnerabilities
 [FTP Log Poisoning](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning)
 
 ---
-### ⚠️ Disclaimer
+### ⚠️ Disclaimer ⚠️
 
 This software and proof-of-concept code is provided **for educational and research purposes only**. 
 
