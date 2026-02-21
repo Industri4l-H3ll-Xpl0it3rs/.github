@@ -1,6 +1,6 @@
 ![](https://github.com/Industri4l-H3ll-Xpl0it3rs/.github/blob/main/profile/IHx.gif)
 
-# Industri4l H3ll Xpl0its
+# Industri4l H3ll Xpl0it3rs
 
 ### ❓ What's that?
 
