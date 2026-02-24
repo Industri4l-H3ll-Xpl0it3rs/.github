@@ -2,7 +2,7 @@
 
 # Industri4l H3ll Xpl0it3rs
 
-### ❓ What's that?
+### <img src="https://www.kolobok.us/smiles/standart/help.gif" What's that?
 
 That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
 
@@ -11,14 +11,14 @@ You can use them in bug bounty and CTFs
 PoCs will be created for old and for self-found vulnerabilities
 
 ---
-### <img src="https://www.kolobok.us/smiles/madhouse/gamer2.gif" width=20> Xpl0its
+### <img src="https://www.kolobok.us/smiles/madhouse/gamer2.gif" width=30> Xpl0its
 
 [CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
 [FTP Log Poisoning](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning)
 
 ---
-### 👾 T00lz
+### <img src="https://www.kolobok.us/smiles/artists/viannen/viannen_09.gif" width=30> T00lz
 
 ---
 ### ⚠️ Disclaimer ⚠️
