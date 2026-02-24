@@ -2,7 +2,7 @@
 
 # Industri4l H3ll Xpl0it3rs
 
-### <img src="https://www.kolobok.us/smiles/standart/help.gif" width=40> What's that?
+### <img src="https://www.kolobok.us/smiles/standart/help.gif" width=30> What's that?
 
 That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
 
@@ -19,6 +19,8 @@ PoCs will be created for old and for self-found vulnerabilities
 
 ---
 ### <img src="https://www.kolobok.us/smiles/artists/viannen/viannen_09.gif" width=40> T00lz
+
+[LeaveNoTrace](https://github.com/Industri4l-H3ll-Xpl0it3rs/leavenotrace)
 
 ---
 ### ⚠️ Disclaimer ⚠️
