@@ -1,4 +1,4 @@
-![](https://github.com/Industri4l-H3ll-Xpl0it3rs/.github/blob/main/profile/IHx.gif)
+<img width="37" height="27" alt="image" src="https://github.com/user-attachments/assets/f628adb0-4d81-467e-95d8-ccbda6f5de2d" /><img width="37" height="27" alt="image" src="https://github.com/user-attachments/assets/bd004ee2-fa58-4f8a-9016-b93ccf011b95" />![](https://github.com/Industri4l-H3ll-Xpl0it3rs/.github/blob/main/profile/IHx.gif)
 
 # Industri4l H3ll Xpl0it3rs
 
@@ -11,7 +11,7 @@ You can use them in bug bounty and CTFs
 PoCs will be created for old and for self-found vulnerabilities
 
 ---
-### <img src="https://www.kolobok.us/smiles/light_skin/dash3.gif" width=10> Xpl0its
+### <img src="https://www.kolobok.us/smiles/madhouse/gamer2.gif" width=20> Xpl0its
 
 [CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
