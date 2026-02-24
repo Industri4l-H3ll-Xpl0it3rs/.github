@@ -11,11 +11,14 @@ You can use them in bug bounty and CTFs
 PoCs will be created for old and for self-found vulnerabilities
 
 ---
-### 👾 Xpl0its
+### <img src="https://www.kolobok.us/smiles/light_skin/dash3.gif" width=10> Xpl0its
 
 [CVE-2014-6271](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271)
 
 [FTP Log Poisoning](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning)
+
+---
+### 👾 T00lz
 
 ---
 ### ⚠️ Disclaimer ⚠️
