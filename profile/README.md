@@ -2,7 +2,7 @@
 
 # Industri4l H3ll Xpl0it3rs
 
-### <img src="https://www.kolobok.us/smiles/standart/help.gif" What's that?
+### <img src="https://www.kolobok.us/smiles/standart/help.gif" width=30> What's that?
 
 That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
 
