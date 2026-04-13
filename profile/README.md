@@ -4,9 +4,9 @@
 
 ### <img src="https://www.kolobok.us/smiles/standart/help.gif" width=40> What's that?
 
-That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs will be placed
+That's the repo of the [industri4l_h3ll](https://t.me/industri4l_h3ll) where PoCs and tools will be placed
 
-You can use them in bug bounty and CTFs
+You can use them in bug bounty, researches and CTFs
 
 PoCs will be created for old and for self-found vulnerabilities
 
@@ -34,3 +34,9 @@ This software and proof-of-concept code is provided **for educational and resear
 *   Use of this tools for attacking targets without consent is **illegal**.
 
 You are responsible for obeying all applicable laws. **Use ethically and responsibly.**
+
+---
+If you are the researcher you can text to us and make a repo
+
+[Templates for READMEs](https://github.com/Industri4l-H3ll-Xpl0it3rs/TEMPLATES)
+
