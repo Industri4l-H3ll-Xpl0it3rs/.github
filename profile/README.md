@@ -19,6 +19,8 @@ PoCs will be created for old and for self-found vulnerabilities
 
 [FTP Log Poisoning](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning)
 
+[CVE-2025-55182](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)
+
 [CVE-2026-31431](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail)
 
 ---
