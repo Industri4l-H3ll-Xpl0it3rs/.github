@@ -43,8 +43,4 @@ This software and proof-of-concept code is provided **for educational and resear
 
 You are responsible for obeying all applicable laws. **Use ethically and responsibly.**
 
----
-If you are the researcher you can text to us and make a repo
-
-[Templates for READMEs](https://github.com/Industri4l-H3ll-Xpl0it3rs/TEMPLATES)
 
