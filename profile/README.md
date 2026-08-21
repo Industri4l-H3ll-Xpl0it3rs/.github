@@ -25,12 +25,18 @@ PoCs will be created for old and for self-found vulnerabilities
 
 [CVE-2026-33017](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-33017-Langflow-RCE)
 
+[CVE-2026-38526](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-38526-KrayinCRM-RCE)
+
+[CVE-2026-63030](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-63030-WP2Shell)
+
 ---
 ### <img src="https://www.kolobok.us/smiles/artists/viannen/viannen_09.gif" width=40> T00lz
 
 [LeaveNoTrace](https://github.com/Industri4l-H3ll-Xpl0it3rs/leavenotrace)
 
 [RevServ](https://github.com/Industri4l-H3ll-Xpl0it3rs/revserv)
+
+[recontr](https://github.com/Industri4l-H3ll-Xpl0it3rs/recontr)
 
 ---
 ### ⚠️ Disclaimer ⚠️
